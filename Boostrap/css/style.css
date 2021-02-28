@@ -1,0 +1,75 @@
+.options{
+    display: inline-flex;
+}
+
+h5{
+    padding: 15px;
+}
+
+a{
+    color: white;
+}
+
+.masthead{
+    width: 100%;
+    height: 750px;
+    padding-top: 300px;
+}
+
+.divider-line{
+    border-top: 3px solid white;
+    padding: 5px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 15px;
+}
+
+.divider-drk{
+    border-top: 3px solid black;
+}
+
+.divider-icon{
+    height: 15px;
+}
+
+.divider-custom{
+    display: inline-flex;
+}
+
+.super-header{
+    width: 100%;
+    height: 700px;
+}
+
+.data-header{
+    width: 100%;
+    height: 600px;
+}
+
+.copyright-header{
+    width: 100%;
+    height: 80px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.prof-img{
+    height: 100px;
+    width: 100px;
+}
+
+.form-group{
+    padding-top: 20px;
+}
+
+.form-check{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+form{
+    padding-top: 70px;
+}
